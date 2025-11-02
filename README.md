@@ -1,11 +1,3 @@
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Negm from Cairo, Egypt<br><br>- 🔭 I’m working as Full-stack developer using MERN/MEAN stacks<br>- 📚 I'm currently learning Javascript Design Patterns <br>- ⚡ Building an E-commerce platform using the MERN stack</p>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/neggmmm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
